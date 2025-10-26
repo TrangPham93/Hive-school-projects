@@ -52,14 +52,17 @@ Cub3D is a **3D raycasting engine** inspired by the classic *Wolfenstein 3D* to 
 <!--
 [NetPractice]()-->
 
-[CPP00 - CPP04]() 
+[CPP00 - CPP04](https://github.com/TrangPham93/CPP_modules.git) ![C++ Logo](https://img.shields.io/badge/-00599C?style=flat&logo=c%2B%2B)
 
+The C++ modules introduces the foundations of C++ and object-oriented programming. Key concepts are canonical class and private and public members (encapsulation).
 
 ## Rank 5
-[CPP05 - CPP09]()
+[CPP05 - CPP09](https://github.com/TrangPham93/CPP_modules.git) ![C++ Logo](https://img.shields.io/badge/-00599C?style=flat&logo=c%2B%2B)
+
+These C++ modules deepen understanding of C++ OOP. Key concepts introduced are inheritance, abstract class, virtual function, polymorphism.
 
 <!--
-[ft_irc]()
+[ft_irc]() ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)
 
 [Inception]()
 ## Rank 6
